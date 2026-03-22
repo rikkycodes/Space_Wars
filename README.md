@@ -12,12 +12,11 @@ Built using Python and the Pygame library, the game delivers a fast-paced, arcad
 <br>
 🎯 Engaging Gameplay
 <br>
-
 Shoot enemies, dodge attacks, and collect power-ups to survive longer.
 <br>
+
 🌌 Dynamic Environment
 <br>
-
 Random enemy movement and increasing difficulty keep every session exciting.
 
 <br><br>
