@@ -1,4 +1,4 @@
-🚀 SPACE WARS
+SPACE WARS
 <br>
 
 Space Wars is a thrilling, action-packed 2D space shooter where players control a spaceship to battle waves of incoming enemies and survive as long as possible.
@@ -9,6 +9,7 @@ Built using Python and the Pygame library, the game delivers a fast-paced, arcad
 <br><br>
 
 🌟 FEATURES
+
 <br>
 🎯 Engaging Gameplay
 <br>
