@@ -29,6 +29,6 @@ Random enemy movement and increasing difficulty keep every session exciting.
 Add new enemy types and boss battles
 Introduce scoring system and leaderboard
 Add multiplayer support
-Improve graphics and animations
+Improve graphics and animations.
 
 <br><br>
